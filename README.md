@@ -1,13 +1,15 @@
 # XMLParser
 A simple xml parser
 
-THe implementation is C# portable version of http://dev.grumpyferret.com/unity/ !
+This implementation is c# portable version of http://dev.grumpyferret.com/unity/ !
 
 Todo:
 
 1.replace Hashtable with strong type!
 
 2.XPath search syntax support!
+
+3.More test and fixed!
 
 
 D.S. Qiu
